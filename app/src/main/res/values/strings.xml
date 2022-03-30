@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAnimationGame</string>
+    <string name="normal_hit">You got it! Number of hits: </string>
+    <string name="great_hit">GREAT! Just one more! Number of hits: </string>
+    <string name="normal_fail">You failed...</string>
+    <string name="great_fail">You failed... You have to start over again.</string>
+    <string name="end_game">You beat the game! You win!</string>
+    <string name="choose_different">Choose a different option.</string>
+</resources>

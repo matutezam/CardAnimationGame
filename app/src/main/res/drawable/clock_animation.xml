@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/clock_1" android:duration="360"/>
+    <item android:drawable="@drawable/clock_2" android:duration="360"/>
+    <item android:drawable="@drawable/clock_3" android:duration="360"/>
+    <item android:drawable="@drawable/clock_4" android:duration="360"/>
+</animation-list>

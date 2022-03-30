@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAnimationGame</string>
+    <string name="choose_different">Elige una imagen diferente.</string>
+    <string name="normal_hit">"¡BIEN! Número de aciertos: "</string>
+    <string name="great_hit">"¡GENIAL! Sólo queda 1! Número de aciertos: "</string>
+    <string name="great_fail">Oh, esa no era... Tienes que volver a empezar.</string>
+    <string name="normal_fail">¡Ups! Fallaste...</string>
+    <string name="end_game">¡Venciste a la máquina! Eres un ganador nato.</string>
+</resources>
